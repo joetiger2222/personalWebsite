@@ -18,7 +18,7 @@
     padding-top: 20px;
 }
 .header>button{
-    width: 90px;
+    width: 120px;
     height: 30px;
     color: white;
     background-color: #5ab1bc;
@@ -89,7 +89,7 @@
     row-gap: 10px;
 }
 .services>p{
-    font-size: 14px;
+    font-size: 18px;
     line-height: 30px;
 }
 .services>p>label{
@@ -121,9 +121,9 @@
 
 .singleToolsContainer>p{
     text-align: center;
-    line-height: 20px;
-    font-size: 14px;
-    color: #569486;
+    line-height: 30px;
+    font-size: 18px;
+    color: #06513f;
 }
 .portoflioSection{
     width: 80%;
@@ -164,8 +164,8 @@
 
 .singleProjectsContainer>p{
     text-align: justify;
-    line-height: 20px;
-    font-size: 16px;
+    line-height: 30px;
+    font-size: 18px;
     color: black;
 }
 
