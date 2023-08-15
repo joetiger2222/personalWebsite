@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'personal_website';
+  download(){
+    var pdfUrl='assets/Youssef Mohammed.pdf';
+    window.open(pdfUrl,'_blank');
+  }
 }
